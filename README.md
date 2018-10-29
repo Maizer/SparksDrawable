@@ -4,7 +4,7 @@ Android SparksDrawable Animation
 
 Android Animation
 
-![image](https://github.com/Maizer/SparksDrawable/smaple.gif ) 
+![image](https://github.com/Maizer/SparksDrawable/blob/master/smaple.gif) 
 
  ## License
 
