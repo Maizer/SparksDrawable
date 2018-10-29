@@ -4,7 +4,7 @@ Android SparksDrawable Animation
 
 Android Animation
 
-![image](https://github.com/Maizer/TextAreaView/blob/TextAreaView/TextAreaViewTest.gif ) 
+![image](https://github.com/Maizer/SparksDrawable/smaple.gif ) 
 
  ## License
 
